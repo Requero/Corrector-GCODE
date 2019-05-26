@@ -1,12 +1,11 @@
 Poner en la misma carpeta el archivo de extensión .CATNCODE  que genera CATIA, el archivo PARÁMETROS.txt,
 el ejecutable Corrector_GCODE.exe.
 Doble click en Corrector_GCODE.exe y se genera un archivo llamado CÓDIGO con el código corregido.
-En la carpeta Ejemplo viene un ejemplo de como hay que ponerlo todo para que funcione:
-Tiene cuatro partes
+En la carpeta Ejemplo viene un ejemplo de como hay que ponerlo todo para que funcione.
+Se pueden poner todas las herramientas que querais.
+Tiene tres partes:
 NOMBRE DEL ARCHIVO QUE GENERA CATIA
-
-TÍTULO QUE VA EN EL ENCABEZADO DEL CÓDIGO
 
 LISTA DE POSICIONES DE HERRAMIENTAS Y CORRECTORES, RESPETAD LOS ESPACIOS
 
-COMENTARIOS DE LAS HERRAMIENTAS QUE SE USAN VAN EN EL ENCABEZADO DEL PROGRAMA
+TÍTULO QUE VA EN EL ENCABEZADO DEL CÓDIGO Y COMENTARIOS DE LAS HERRAMIENTAS QUE SE USAN VAN EN EL ENCABEZADO DEL PROGRAMA
